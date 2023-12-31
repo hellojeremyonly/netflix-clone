@@ -1,7 +1,7 @@
 # Netflix Clone
 This is a Netflix clone project created using HTML and CSS. The clone is designed to resemble the Netflix website, with a focus on replicating the user interface and layout of Netflix Singapore.
 
-Check out the [live demo](https://maverickflixclone.netlify.app/)
+Check out the [live demo](https://codepen.io/hellojeremyonly/pen/yLwYeZB/)
 
 # Project Description
 The Netflix Clone project aims to recreate the Netflix website interface using only HTML and CSS. It provides a visual representation of the Netflix homepage, allowing users to navigate through various sections and browse content as they would on the actual Netflix website.
